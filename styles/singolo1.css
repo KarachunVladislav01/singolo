@@ -27,9 +27,9 @@ body {
 }
 
 .header {
-  height: 89px;
+  height: 8.9rem;
   background-color: #2d303a;
-  border-bottom: 6px solid #323746;
+  border-bottom: 0.6rem solid #323746;
 }
 
 .header-grid {
@@ -44,15 +44,15 @@ body {
 }
 
 .logo {
-  height: 20px;
-  margin-top: 34px;
-  margin-left: 40px;
+  height: 2rem;
+  margin-top: 3.4rem;
+  margin-left: 4rem;
   text-decoration: none;
 }
 
 .logo h1 {
   font-size: 2.5rem;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.05rem;
   line-height: 2rem;
   font-weight: 700;
   cursor: pointer;
@@ -86,7 +86,7 @@ body {
   border-radius: 50%;
   position: absolute;
   top: 50%;
-  right: -16px;
+  right: -1.6rem;
 }
 
 .navigation-item:last-child {
@@ -117,7 +117,7 @@ a:focus {
 }
 
 .slider-flex {
-  height: 600px;
+  height: 60rem;
   display: flex;
 }
 
@@ -161,7 +161,7 @@ a:focus {
 
 .services h2 {
   font-size: 3rem;
-  line-height: 23px;
+  line-height: 2.3rem;
   color: #666d89;
   font-weight: 900;
   letter-spacing: 0.05rem;
@@ -174,8 +174,8 @@ a:focus {
 }
 
 .services-article p {
-  font-size: 18px;
-  line-height: 30px;
+  font-size: 1.8rem;
+  line-height: 3rem;
   color: #767e9e;
   font-weight: 300;
   letter-spacing: -0.0172rem;
